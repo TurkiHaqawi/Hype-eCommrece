@@ -1,0 +1,36 @@
+.login {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.wrapper {
+  width: 25%;
+  padding: 20px;
+  background-color: #E3E7F1;
+  opacity: 0.9;
+}
+.title {
+  font-size: 26px;
+  font-weight: 300;
+}
+.wrapper .form {
+  display: flex;
+  flex-direction: column;
+}
+.form input {
+    flex: 1;
+  min-width: 40%;
+  margin: 10px 0;
+  padding: 10px;
+}
+.form button {
+  width: 100%;
+  border: none;
+  padding: 15px 20px;
+  background-color: #000;
+  color: white;
+  cursor: pointer;
+  margin-bottom: 10px;
+}
