@@ -178,7 +178,7 @@ The url to your repository and to your deployed project
 
 [Repository Link](https://github.com/TurkiHaqawi/Hype-eCommrece)
 
-[Deployed App Link]()
+[Deployed App Link](https://hype-ecommrece.herokuapp.com/)
 
 ### Slides
 
